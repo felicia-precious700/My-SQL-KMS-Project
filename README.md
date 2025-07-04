@@ -3,10 +3,9 @@
 
 #### Overview
 
-This repository presents a comprehensive data analysis project, showcasing expertise in extracting insights from complex datasets. The project features two real-world business cases:
+This repository presents a comprehensive data analysis project, showcasing expertise in extracting insights from complex datasets. The project features   real-world business case:
 
 1. Kultra Mega Stores Inventory Analysis
-2. Palmora Group HR Analysis
 
 #### Case Study 1: Kultra Mega Stores Inventory Analysis
 
@@ -18,8 +17,7 @@ This repository presents a comprehensive data analysis project, showcasing exper
     - Provide strategic recommendations to improve revenue and efficiency
 #### - Tools & Techniques:
     - SQL for data querying and extraction
-    - Excel for data transformation, pivot tables, and reporting
-    - Power BI for interactive dashboards and data visualization
+    - 
 #### - Key Questions Addressed:
     - Which product category had the highest sales?
     - What are the top 3 and bottom 3 sales regions?
@@ -28,9 +26,23 @@ This repository presents a comprehensive data analysis project, showcasing exper
     - What is the most expensive shipping method?
     - What consumer customer was the most profitable one?
     - Who are the most valuable customers, and what products or services do they typically purchase?
+
+#### -  Sample Analysis:
+    - Totalrevenue by months and quarter.
+
+    - Top-performing products by quantity and sales value
+
+    -  Regional performance comparison across Keltura stores
+
+    -   Time-based sales trends using window functions
+
+    -   Identification of low-performing or declining products
+    
 #### - Deliverables:
-    - Cleaned dataset
+
     - SQL queries and results
-    - Excel report
-    - Power BI dashboard
+    - Summary and detailed sales queries
+    - Advanced analysis
+    - Export result tables ( in CSV or XLSX formats)
+
 
